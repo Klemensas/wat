@@ -1,0 +1,8 @@
+{
+  "name": "wat",
+  "version": "1.0.0",
+  "dependencies": {
+    "react-modal": "3.15.1",
+    "uhoh-test": "^1.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uhoh-test",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "react-autosize-textarea": "^7.1.0"
+  }
+}
